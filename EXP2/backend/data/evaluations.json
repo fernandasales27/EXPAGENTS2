@@ -1,0 +1,130 @@
+[
+  {
+    "id": "e6b3c054-a195-4f1e-93fb-5279d9af3fd8",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "eb53d0dd-a802-45c2-8292-3db14a58a34d",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T01:41:30.886Z"
+  },
+  {
+    "id": "d264c859-2fb0-4641-901a-8b72ea060882",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "eb53d0dd-a802-45c2-8292-3db14a58a34d",
+    "goalId": "goal-testes",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T01:41:32.520Z"
+  },
+  {
+    "id": "d1d3e7a6-b071-4834-94c3-a4affd3b5992",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "eb53d0dd-a802-45c2-8292-3db14a58a34d",
+    "goalId": "goal-qualidade",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T01:41:33.720Z"
+  },
+  {
+    "id": "7d3fa616-8e19-438c-b554-3d103f720b00",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "4bf23858-de00-46bb-82e0-fbd088d4a553",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T02:16:59.653Z"
+  },
+  {
+    "id": "96fcbcfc-6297-4411-8cbf-3f6955de3309",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "4bf23858-de00-46bb-82e0-fbd088d4a553",
+    "goalId": "goal-testes",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:29:20.158Z"
+  },
+  {
+    "id": "bd7f33f6-f906-407a-8010-2780668ff050",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "4bf23858-de00-46bb-82e0-fbd088d4a553",
+    "goalId": "goal-qualidade",
+    "concept": "MPA",
+    "updatedAt": "2026-04-21T01:41:51.994Z"
+  },
+  {
+    "id": "d3d0e20f-708e-4b51-af7a-7531b4ebf8b7",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "c1f43e9c-b643-49c7-a508-781d2fd1126b",
+    "goalId": "goal-testes",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:56:30.013Z"
+  },
+  {
+    "id": "1bea21aa-da0b-4662-9074-bfe4cd83a500",
+    "classGroupId": "00f5ad71-7a4a-4fde-9432-9e1ca15bfcf3",
+    "studentId": "32fb3b19-3594-42d9-801f-f049a9d5ff24",
+    "goalId": "goal-qualidade",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:25:33.776Z"
+  },
+  {
+    "id": "91f6f339-3e09-46f5-92d7-e7c95f520273",
+    "classGroupId": "00f5ad71-7a4a-4fde-9432-9e1ca15bfcf3",
+    "studentId": "32fb3b19-3594-42d9-801f-f049a9d5ff24",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T02:26:00.061Z"
+  },
+  {
+    "id": "bfb59b27-9354-4205-9bce-f8325a5bb047",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "51148c08-8d66-47c1-b254-eb5699917c52",
+    "goalId": "goal-qualidade",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:30:47.485Z"
+  },
+  {
+    "id": "c5b2c515-b57b-4390-8334-18fdfd5cd0ca",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "c1f43e9c-b643-49c7-a508-781d2fd1126b",
+    "goalId": "goal-qualidade",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:34:21.049Z"
+  },
+  {
+    "id": "68e3204b-6f65-4b09-bb90-3466771312b8",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "c1f43e9c-b643-49c7-a508-781d2fd1126b",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T02:40:06.290Z"
+  },
+  {
+    "id": "33085497-5145-4448-9bb3-87b5221faad0",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "39df843f-3e59-4617-ba00-0aaa96532a90",
+    "goalId": "goal-requisitos",
+    "concept": "MA",
+    "updatedAt": "2026-04-21T02:41:12.646Z"
+  },
+  {
+    "id": "9089a7ea-db96-4e13-94f1-d888d13eae21",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "4266d961-7abf-441f-bd73-c4bdf85f3fdc",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T02:44:01.181Z"
+  },
+  {
+    "id": "c6dfa557-d7ed-4b97-87cc-9d6c4c287906",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "15cb902a-d03e-4367-81fc-eb1004730ea2",
+    "goalId": "goal-requisitos",
+    "concept": "MANA",
+    "updatedAt": "2026-04-21T02:48:15.830Z"
+  },
+  {
+    "id": "082136b2-4a68-4395-9161-b732dc0e43ca",
+    "classGroupId": "1e3d67f7-016b-47dd-bc9a-a39bfb5a9806",
+    "studentId": "15cb902a-d03e-4367-81fc-eb1004730ea2",
+    "goalId": "goal-testes",
+    "concept": "MPA",
+    "updatedAt": "2026-04-21T02:48:41.194Z"
+  }
+]

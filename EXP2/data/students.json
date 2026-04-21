@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fa3e5ccb-39d7-454c-94dd-8f2387d70d03",
+    "name": "Ana Silva",
+    "cpf": "12345678900",
+    "email": "ana.silva@example.com"
+  },
+  {
+    "id": "3064e239-c839-44c9-a2e0-880750c03941",
+    "name": "Bruno Costa",
+    "cpf": "99988877766",
+    "email": "bruno.costa@example.com"
+  },
+  {
+    "id": "e825fa8e-108b-4187-8b85-bc9e1459c7a7",
+    "name": "Carla Lima",
+    "cpf": "11122233344",
+    "email": "carla.lima@example.com"
+  }
+]

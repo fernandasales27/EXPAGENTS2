@@ -1,0 +1,17 @@
+[
+  {
+    "id": "goal-requisitos",
+    "name": "Requisitos",
+    "order": 1
+  },
+  {
+    "id": "goal-testes",
+    "name": "Testes",
+    "order": 2
+  },
+  {
+    "id": "goal-qualidade",
+    "name": "Qualidade",
+    "order": 3
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "exp2-tests",
+  "private": true,
+  "scripts": {
+    "cucumber": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "typescript": "^5.8.3"
+  }
+}

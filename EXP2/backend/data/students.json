@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eb53d0dd-a802-45c2-8292-3db14a58a34d",
+    "name": "fernanda",
+    "cpf": "07270578478",
+    "email": "mflos@cin.ufpe.br"
+  },
+  {
+    "id": "4bf23858-de00-46bb-82e0-fbd088d4a553",
+    "name": "maria",
+    "cpf": "69394849491",
+    "email": "eifernandasales@gmail.com"
+  },
+  {
+    "id": "c1f43e9c-b643-49c7-a508-781d2fd1126b",
+    "name": "joao victor",
+    "cpf": "12029386433",
+    "email": "juauvcktor@gmail.com"
+  },
+  {
+    "id": "4266d961-7abf-441f-bd73-c4bdf85f3fdc",
+    "name": "nando",
+    "cpf": "44444444444",
+    "email": "fernandoaosales@gmail.com"
+  }
+]

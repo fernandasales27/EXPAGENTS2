@@ -1,0 +1,44 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.createClassGroupController = createClassGroupController;
+function readBody(request) {
+    return new Promise((resolve, reject) => {
+        const chunks = [];
+        request.on('data', (chunk) => chunks.push(Buffer.from(chunk)));
+        request.on('end', () => resolve(Buffer.concat(chunks).toString('utf-8')));
+        request.on('error', reject);
+    });
+}
+function sendJson(response, statusCode, payload) {
+    response.statusCode = statusCode;
+    response.setHeader('Content-Type', 'application/json; charset=utf-8');
+    response.end(JSON.stringify(payload));
+}
+function createClassGroupController(service) {
+    return async (request, response) => {
+        const url = new URL(request.url ?? '/', 'http://localhost');
+        if (request.method === 'GET' && url.pathname === '/classes') {
+            sendJson(response, 200, await service.list());
+            return;
+        }
+        if (request.method === 'POST' && url.pathname === '/classes') {
+            const body = JSON.parse(await readBody(request));
+            const created = await service.create(body);
+            sendJson(response, 201, created);
+            return;
+        }
+        const match = url.pathname.match(/^\/classes\/([^/]+)$/);
+        if (match && request.method === 'PUT') {
+            const body = JSON.parse(await readBody(request));
+            const updated = await service.update(match[1], body);
+            sendJson(response, 200, updated);
+            return;
+        }
+        if (match && request.method === 'DELETE') {
+            await service.remove(match[1]);
+            sendJson(response, 204, null);
+            return;
+        }
+        sendJson(response, 404, { message: 'Not found' });
+    };
+}

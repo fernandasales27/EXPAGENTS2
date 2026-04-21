@@ -1,0 +1,19 @@
+{
+  "name": "exp2",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "tests"
+  ],
+  "scripts": {
+    "build": "npm run build -w frontend && npm run build -w backend",
+    "dev:frontend": "npm run dev -w frontend",
+    "dev:backend": "npm run dev -w backend",
+    "test": "npm run cucumber -w tests",
+    "lint": "echo \"configure lint scripts\""
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
