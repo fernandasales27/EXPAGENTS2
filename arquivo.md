@@ -1,14 +1,10 @@
 # Revisao do Sistema do Colega
 
 ## Identificacao
-- Repositorio revisado: https://github.com/igusouz/exp-questions-app
-- Data da revisao:25/03/26
+- Repositorio revisado: (https://github.com/igusouz/exp-school-app.git)
+- Data da revisao:22/04/26
 - Revisor: Maria Fernanda Sales# Revisao do Sistema do Colega
 
-## Identificacao
-- Repositorio revisado: https://github.com/igusouz/exp-questions-app
-- Data da revisao:25/03/26
-- Revisor: Maria Fernanda Sales
 
 ## Resumo da avaliacao
 O projeto cumpre com os requisitos solicitados pelo professor com fluidez, contando com testes e interface gráfica agrádvel e com boa usabilidade.
